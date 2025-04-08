@@ -17,6 +17,4 @@
 <img align="center" alt="java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg"/>
 </div><br/>
 
-Estudo desenvolvimento de Software um tempo ,cursei um semestre de matemática na Universidade Federal de Santa Catarina(UFSC).
-Porém desde pequeno tenho uma paixão por tecnologia e sempre me identifiquei, atualmente estou cursando Análise e desenvolvimento de Sistemas no Instituto Federal de Santa Catarina(IFSC).
-Sou apaixonado pelo desenvolvimento de Software ,estudo para me tornar Full Stack Developer , e tambem gosto muito da linguagem Swift de desenvolvimento nativo IOS.
+
