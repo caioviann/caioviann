@@ -1,4 +1,4 @@
-### Eu sou o Caio Henrique
+### I am Caio Henrique
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-henrique-a05044259/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caioviann/)
@@ -6,7 +6,7 @@
 
 ![caioviann GitHub stats](https://github-readme-stats.vercel.app/api?username=caioviann&show_icons=true&theme=dracula)
 
-### Tecnologias
+### Technologies
 <div style="display: inline_block" background-color="white"> <br/>
   <img align="center" alt="java" heigth="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
   <img align="center" alt="java" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg"/>
